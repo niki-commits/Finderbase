@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747765863477",
+    "project_id": "finderbase-123",
+    "storage_bucket": "finderbase-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747765863477:android:2c0fe2ef813cfc14f88d7c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNFPgt5PvhHI1U9OB0QGYatfWSF7yCDoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

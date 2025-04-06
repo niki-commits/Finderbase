@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "finderbase-123",
+          "appId": "1:747765863477:android:2c0fe2ef813cfc14f88d7c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "finderbase-123",
+          "configurations": {
+            "android": "1:747765863477:android:2c0fe2ef813cfc14f88d7c",
+            "windows": "1:747765863477:web:218f20dc34b1d0c9f88d7c"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
